@@ -1,0 +1,8 @@
+sqlalchemy
+pydantic-extra-types 
+phonenumbers
+pwdlib[argon2]
+pyjwt 
+python-multipart 
+pydantic[email]
+pydantic-settings
